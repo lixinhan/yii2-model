@@ -15,7 +15,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "lixinhan\\yii2\\model":"src"
+            "lixinhan\\yii2\\model\\":"src"
         }
     }
 }
